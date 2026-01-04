@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# React Native build folders
+MobileApp/android/app/build/
+MobileApp/android/build/
+MobileApp/ios/Pods/
+MobileApp/ios/build/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env
+.env
