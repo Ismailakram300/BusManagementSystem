@@ -1,21 +1,16 @@
-# Node
+# Node modules
 node_modules/
-npm-debug.log*
-yarn-error.log*
 
-# React Native
-MobileApp/node_modules/
+# React Native build folders
 MobileApp/android/app/build/
 MobileApp/android/build/
 MobileApp/ios/Pods/
 MobileApp/ios/build/
 
-# Env
-.env
-
-# IDE
+# IDE / OS
 .vscode/
-
-# OS
 .DS_Store
 Thumbs.db
+
+# Env
+.env
